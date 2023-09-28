@@ -1,0 +1,57 @@
+.padding{
+    background-color: #e97768;
+    padding: 80px 
+    
+}
+
+.primeira{
+    display: none;
+}
+
+.margem
+{
+    background-color: #e97768;
+    margin: 80px;
+    }
+
+.borda
+{border:
+    20px solid #E86958;
+    padding: 10px;
+    }
+
+
+
+.cor_de_fundo{
+    background-color:#FFA285;
+}
+
+body{
+    text-align: center;
+    color: rgb(169, 45, 45) 
+    
+}
+
+li{
+    list-style-position: inside;
+}
+
+a{
+    color: #ffffff;
+}
+
+a:visited{
+    color: #686666;
+}
+
+a:active{
+    color: #272222;
+}
+
+a:hover{
+    background-color: #272222;
+}
+
+h1{
+    background-color: #E86958;
+}
